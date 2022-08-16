@@ -11,3 +11,4 @@ https://pardeletras.com 🔗
 
 <img src="https://badgen.net/badge/OS/Fedora Linux/orange/"> <img src="https://badgen.net/badge/CODE/HTML/blue/"> <img src="https://badgen.net/badge/CODE/CSS/blue/"> <img src="https://badgen.net/badge/CODE/JavaScript/yellow/"> <img src="https://badgen.net/badge/SSG/11ty/green/">
 
+<img src="https://raw.githubusercontent.com/Mindula-Dilthushan/Mindula-Dilthushan/red-alpha/github-contribution-grid-snake.svg">
