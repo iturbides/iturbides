@@ -1,4 +1,4 @@
-<img src="https://github.com/iturbides/iturbides/blob/27972a50ab19b76408e6cdfd2b2a4a221ae9d9db/octocat.png">
+<img src="https://github.com/iturbides/iturbides/blob/c4ec7b334259d1ecf924aa5a8c551db3ad6ac081/octocat.png">
 
 Web developer, journalist and writer:
 
