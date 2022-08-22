@@ -8,5 +8,5 @@ https://pardeletras.com 🔗
 
 <h2>Technologies</h2>
 
-<img src="https://badgen.net/badge/OS/Fedora Linux/orange/"> <img src="https://badgen.net/badge/CODE/HTML/blue/"> <img src="https://badgen.net/badge/CODE/CSS/blue/"> <img src="https://badgen.net/badge/CODE/JavaScript/yellow/"> <img src="https://badgen.net/badge/SSG/11ty/green/">  <img src="https://badgen.net/badge/Deploy/Netlify/blue/">
+<img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux"> <img src="https://badgen.net/badge/CODE/HTML/blue/"> <img src="https://badgen.net/badge/CODE/CSS/blue/"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript"> <img src="https://img.shields.io/badge/SSG-Eleventy-blue?logo=eleventy">  <img src="https://img.shields.io/badge/Deploy-Netlify-blue?logo=netlify">
 
