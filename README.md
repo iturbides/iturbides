@@ -9,4 +9,5 @@ https://pardeletras.com 🔗
 <h2>Technologies I use</h2>
 
 <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux"> <img src="https://img.shields.io/badge/Desktop-Gnome-blue?logo=gnome"> <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5"> <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3"> <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript"> <img src="https://img.shields.io/badge/SSG-Eleventy-blue?logo=eleventy">  <img src="https://img.shields.io/badge/Deploy-Netlify-blue?logo=netlify"> <img src="https://img.shields.io/badge/VCS-Git-red?logo=git"> <img src="https://img.shields.io/badge/Git-Github-blue?logo=github"> <img src="https://img.shields.io/badge/Git-Gitlab-blue?logo=gitlab"> <img src="https://img.shields.io/badge/Design-Gimp-blue?logo=gimp"> <img src="https://img.shields.io/badge/Design-Inkscape-blue?logo=inkscape"> <img src="https://img.shields.io/badge/Editor-Vim-darkgreen?logo=vim"> <img src="https://img.shields.io/badge/Cloud-NextCloud-lightblue?logo=nextcloud">
-
+<br><br>
+<a rel="me" href="https://mastodon.social/@iturbides">Mastodon</a>
