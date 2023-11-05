@@ -4,7 +4,7 @@
 
 https://iturbides.dev 🔗
 
-https://pardeletras.com 🔗
+https://becss.dev 🔗
 
 <h2>Technologies I use</h2>
 
